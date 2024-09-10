@@ -9,7 +9,6 @@ asttokens==2.4.1
 astunparse==1.6.3
 attrs==24.2.0
 blinker==1.8.2
-ca-certificates==2024.8.30
 cachetools==5.5.0
 certifi==2024.8.30
 chardet==5.2.0
@@ -17,8 +16,6 @@ charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
 comm==0.2.2
-cudatoolkit==11.2.2
-cudnn==8.1.0.77
 dash==2.18.0
 dash-core-components==2.0.0
 dash-html-components==2.0.0
@@ -55,10 +52,7 @@ jsonschema-specifications==2023.12.1
 jupyter_client==8.6.2
 jupyter_core==5.7.2
 keras==2.14.0
-krb5==1.21.3
 libclang==18.1.1
-libffi==3.4.4
-libsodium==1.0.18
 markdown==3.7
 markdown-it-py==3.0.0
 markupsafe==2.1.5
@@ -70,7 +64,6 @@ nest-asyncio==1.6.0
 numpy==1.23.5
 oauthlib==3.2.2
 openai==1.44.0
-openssl==3.3.1
 opt-einsum==3.3.0
 packaging==24.1
 pandas==2.2.2
@@ -127,11 +120,7 @@ tqdm==4.66.5
 traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2024.1
-ucrt==10.0.22621.0
 urllib3==2.2.2
-vc==14.40
-vc14_runtime==14.40.33810
-vs2015_runtime==14.40.33810
 watchdog==4.0.2
 wcwidth==0.2.13
 werkzeug==3.0.4
@@ -141,4 +130,5 @@ xz==5.4.6
 zeromq==4.3.5
 zipp==3.20.1
 zlib==1.2.13
+
 
